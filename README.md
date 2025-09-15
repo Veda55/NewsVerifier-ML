@@ -34,7 +34,7 @@ Getting started with NewsVerifier-ML is straightforward.
 # Quickstart  
 Clone the repository and navigate into it:  
 -bash
- git clone https://github.com/your-username/NewsVerifier-ML.git
+ git clone https://github.com/Veda55/NewsVerifier-ML.git
  cd NewsVerifier-ML
 
 # Set up the environment:
